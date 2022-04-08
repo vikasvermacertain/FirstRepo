@@ -14,4 +14,8 @@ Final Edit
 Final edit through github.com
 Checking git pull
 
+
 this is for resolving conflict:q
+
+Resolving conflict - acting as developer 2
+
