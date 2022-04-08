@@ -13,3 +13,5 @@ Final Edit
 
 Final edit through github.com
 Checking git pull
+
+Resolving conflict - acting as developer 2
