@@ -12,3 +12,4 @@ New Edit
 Final Edit
 
 Final edit through github.com
+Checking git pull
